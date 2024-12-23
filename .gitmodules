@@ -1,3 +1,6 @@
 [submodule "honest-debian"]
 	path = honest-debian
 	url = git@github.com:VeracityLabs/honest-debian.git
+[submodule "honest-pioreactor"]
+	path = honest-pioreactor
+	url = git@github.com:VeracityLabs/honest-pioreactor.git
