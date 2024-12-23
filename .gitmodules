@@ -1,0 +1,3 @@
+[submodule "honest-debian"]
+	path = honest-debian
+	url = git@github.com:VeracityLabs/honest-debian.git
