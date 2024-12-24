@@ -4,8 +4,6 @@ Researchers who fake data commit academic fraud, damaging the credibility of sci
 
 The Truth Machine Initiative ensures research honesty through custom devices designed to record data truthfully and certify its authenticity. Every sensor reading is cryptographically sealed the moment it's captured, creating an unalterable record that prevents tampering of research data before and after publication. This system gives researchers, funders, and the public confidence that published results reflect genuine observations rather than fabricated data.
 
----
-
 The Truth Machine Initiative is commissioned by Causality Network, a research integrity and decentralized science project committed to securing truth in academia. The hardware and firmware are designed by Veracity Labs, a company specializing in technological solutions for verifiable truth.
 
 ## The Honest Bioreactor
